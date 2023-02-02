@@ -1,6 +1,8 @@
 # Distance-measuring-system
-Architecture-layered system to measuring the distance using ultrasonic sensor HC-SR04 and Atmega32 microcontroller.
-
+Developing a system to measuring the distance using ultrasonic sensor HC-SR04.
+- Drivers used to build the project: GPIO, ultrasonic, LCD, ICU
+- The used Microcontrollers in the project: ATmega32.
+- The project is designed and implemented based on the layered architecture.
 - The architecture layer of the system:
 
 ![arch-layer](https://user-images.githubusercontent.com/104661871/216326237-e5f569d8-9d95-4745-b64a-4340e05e7561.png)
